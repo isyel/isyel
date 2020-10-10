@@ -3,6 +3,7 @@
 <img src="https://web.ecagon.com/wp-content/uploads/2020/10/LinkedIn-Cover-Image.png" alt="banner that says Israel Chukwuemeka - software engineer, SEO and digital strategist alongside a portrait image">
 I'm a software engineer who is passionate about solving business problems, creating technology that elevates people, and solves real world problems. Some technologies I enjoy working with include ReactJS, Angular, Python and Laravel.
 
+
 I have worked with brands like UAC Foods and SPAR in delivering software solutions to help automate their business processes and customer satisfaction. 
 
 My interest in solving business problems has been instrumental in helping to buid <a href="https://web.ecagon.com/">Ecagon</a>, a digital agency, that helps small and medium sized businesses leverage online tools in SEO and Digital marketing to grow exponentially.
