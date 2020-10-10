@@ -1,6 +1,6 @@
 # Hi, I'm Israel Chukwuemeka 👋🏾 👩🏾‍💻 💼
 
-<!--<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">-->
+<img src="https://web.ecagon.com/wp-content/uploads/2020/10/LinkedIn-Cover-Image.png" alt="banner that says Israel Chukwuemeka - software engineer, SEO and digital strategist alongside a portrait image">
 I'm a software engineer who is passionate about solving business problems, creating technology that elevates people, and solves real world problems. Some technologies I enjoy working with include ReactJS, Angular, Python and Laravel. 
 
 I have worked with brands like UAC Foods and SPAR in delivering software solutions to help automate their business processes and customer satisfaction. 
