@@ -6,7 +6,7 @@ I'm a software engineer who is passionate about solving business problems, creat
 
 I have worked with brands like UAC Foods and SPAR in delivering software solutions to help automate their business processes and customer satisfaction. 
 
-My interest in solving business problems has been instrumental in helping to buid <a href="https://web.ecagon.com/">Ecagon</a>, a digital agency, that helps small and medium sized businesses leverage online tools in SEO and Digital marketing to grow exponentially.
+My interest in solving business problems has been instrumental in helping to grow <a href="https://web.ecagon.com/">Ecagon</a>, a digital agency, that helps small and medium sized businesses leverage online tools in SEO and Digital marketing to grow exponentially.
 
 - 🌱 I’m currently learning: React Native and Python
 - 💹 Learning business development and strategies
