@@ -1,7 +1,7 @@
 # Hi, I'm Israel Chukwuemeka 👋🏾 👩🏾‍💻 💼
 
 <p>
-   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=isyel&show_icons=true&count_private=true" width="412"></a>   <br>
+   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=isyel&show_icons=true&count_private=true&theme=calm" width="412"></a>   <br>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isyel&theme=calm&layout=compact" height="194"></a>
 </p>
 <br/>
