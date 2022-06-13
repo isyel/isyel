@@ -1,6 +1,10 @@
 # Hi, I'm Israel Chukwuemeka 👋🏾 👩🏾‍💻 💼
 
-<img src="https://web.ecagon.com/wp-content/uploads/2020/10/LinkedIn-Cover-Image.png" alt="banner that says Israel Chukwuemeka - software engineer, SEO and digital strategist alongside a portrait image">
+<p>
+   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=isyel&show_icons=true&count_private=true&theme=calm" width="412"></a>   <br>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isyel&theme=calm&layout=compact" height="194"></a>
+</p>
+<br/>
 I'm a software engineer who is passionate about solving business problems, creating technology that elevates people, and solves real world problems. Some technologies I enjoy working with include ReactJS, Angular, Python and Laravel.
 
 
