@@ -5,24 +5,29 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isyel&theme=calm&layout=compact" height="194"></a>
 </p>
 <br/>
-I'm a software engineer who is passionate about solving business problems, creating technology that elevates people, and solves real world problems. Some technologies I enjoy working with include ReactJS, Angular, Python and Laravel.
+Senior Software Engineer focused on Frontend Architecture, Product Platform Engineering, and SaaS systems.
 
+I build scalable products, developer platforms, and customer experiences using React, Next.js, TypeScript, and modern web technologies. My work spans platform modernization, onboarding infrastructure, design systems, developer experience, and system reliability.
 
-I have worked with brands like UAC Foods and SPAR in delivering software solutions to help automate their business processes and customer satisfaction. 
+Recently, I've led initiatives that:
+- 🌱 Scaled onboarding systems used by tens of thousands of users
+- 💹 Improved engineering productivity through shared tooling, testing infrastructure, and design systems
+- ⚡ Contributed to revenue growth through product and platform improvements
+- 👯 Unified multiple applications into a shared platform architecture
 
-My interest in solving business problems has been instrumental in helping to grow <a href="https://web.ecagon.com/">Ecagon</a>, a digital agency, that helps small and medium sized businesses leverage online tools in SEO and Digital marketing to grow exponentially.
+## Tech Stack
+React • Next.js • TypeScript • Node.js • Python • GraphQL • AWS • Docker • CI/CD
 
-- 🌱 I’m currently learning: React Native and Python
-- 💹 Learning business development and strategies
+## Interests
+System Design • Developer Experience • SaaS Platforms • Fintech • AI Engineering
 
-
-## Find me around the web 🌎: <a href="https://web.ecagon.com/isyel"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+## Find me around the web 🌎: <a href="isyel-portfolio.vercel.app"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
    - Sharing visual insights on <a href="https://www.instagram.com/isyelchukwu/"> Instagram</a> 🏓
-   - Sharing business updates on <a href="https://www.linkedin.com/in/israel-chukwuemeka/">LinkedIn</a> 💼
+   - Sharing Tech updates on <a href="https://www.linkedin.com/in/israel-chukwuemeka/">LinkedIn</a> 💼
 
 <br/><br/>
 ## 📫 How to reach me: 
-- Email: isykaal4saviour@gmail.com
+- Email: israel.chukwuemeka.c@gmail.com
 - Phone: +234 8141841767
 
 
